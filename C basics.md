@@ -123,7 +123,7 @@ c
 printf("%.2f", value);
 
 
-displays the value with **2 digits after the decimal point**.
+displays the value with 2 digits after the decimal point.
 
 Similarly:
 
@@ -131,7 +131,7 @@ c
 printf("%.4f", value);
 
 
-displays **4 digits after the decimal point**.
+displays 4 digits after the decimal point.
 
 And:
 
